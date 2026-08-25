@@ -4,4 +4,4 @@ def test_addition():
 def test_subtraction():
     assert 5 - 2 == 3
 
-print("Test scripts executed successfully!")
+print("Version 2: Test scripts executed successfully!")
